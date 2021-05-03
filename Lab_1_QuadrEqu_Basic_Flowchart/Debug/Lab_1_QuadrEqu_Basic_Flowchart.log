@@ -1,0 +1,5 @@
+﻿  QuadraticEquationCalculator.c
+C:\LearnWorkspace\C\FS\Lab_1_QuadrEqu_Basic_Flowchart\Lab_1_QuadrEqu_Basic_Flowchart\QuadraticEquationCalculator.c(15,13): warning C4047: return: "int *" отличается по уровням косвенного обращения от "int"
+C:\LearnWorkspace\C\FS\Lab_1_QuadrEqu_Basic_Flowchart\Lab_1_QuadrEqu_Basic_Flowchart\QuadraticEquationCalculator.c(28,54): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\LearnWorkspace\C\FS\Lab_1_QuadrEqu_Basic_Flowchart\Lab_1_QuadrEqu_Basic_Flowchart\QuadraticEquationCalculator.c(36,54): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Lab_1_QuadrEqu_Basic_Flowchart.vcxproj -> C:\LearnWorkspace\C\FS\Lab_1_QuadrEqu_Basic_Flowchart\Debug\Lab_1_QuadrEqu_Basic_Flowchart.exe
